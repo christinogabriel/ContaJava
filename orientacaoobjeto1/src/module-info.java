@@ -1,0 +1,2 @@
+module orientacaoobjeto1 {
+}
